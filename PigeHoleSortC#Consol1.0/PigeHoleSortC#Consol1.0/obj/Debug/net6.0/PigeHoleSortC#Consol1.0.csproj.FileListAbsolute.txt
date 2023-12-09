@@ -1,0 +1,15 @@
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\bin\Debug\net6.0\PigeHoleSortC#Consol1.0.exe
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\bin\Debug\net6.0\PigeHoleSortC#Consol1.0.deps.json
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\bin\Debug\net6.0\PigeHoleSortC#Consol1.0.runtimeconfig.json
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\bin\Debug\net6.0\PigeHoleSortC#Consol1.0.dll
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\bin\Debug\net6.0\PigeHoleSortC#Consol1.0.pdb
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\PigeHoleSortC#Consol1.0.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\PigeHoleSortC#Consol1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\PigeHoleSortC#Consol1.0.AssemblyInfoInputs.cache
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\PigeHoleSortC#Consol1.0.AssemblyInfo.cs
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\PigeHoleSortC#Consol1.0.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\PigeHoleSortC#Consol1.0.dll
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\refint\PigeHoleSortC#Consol1.0.dll
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\PigeHoleSortC#Consol1.0.pdb
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\PigeHoleSortC#Consol1.0.genruntimeconfig.cache
+C:\Users\soned\Videos\programas VS\PigeHoleSortC#Consol1.0\PigeHoleSortC#Consol1.0\obj\Debug\net6.0\ref\PigeHoleSortC#Consol1.0.dll
